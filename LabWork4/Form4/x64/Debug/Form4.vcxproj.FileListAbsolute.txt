@@ -1,0 +1,4 @@
+C:\Users\julia\source\repos\Form4\Form4\x64\Debug\Form4.vcxproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Form4\Form4\x64\Debug\Form4.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\julia\source\repos\Form4\Form4\x64\Debug\Form4.MyForm.resources
+C:\Users\julia\source\repos\Form4\Form4\x64\Debug\Form4.vcxproj.GenerateResource.cache
